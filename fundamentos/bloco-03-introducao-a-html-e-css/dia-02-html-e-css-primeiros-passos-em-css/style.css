@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+}
+h1 {
+  font-size: 65px;
+  color: orange; 
+  font-family: sans-serif;
+  font-style: italic;
+  text-decoration: red;
+}
+ul {
+   background-color: whitesmoke; 
+   line-height: 50px;
+}
+.cores{
+    background-color: salmon;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+    text-align: center;
+}
+#yw {
+    background-color: yellow;
+}
+#rd {
+    background-color: red;
+}
+#bw {
+    background-color: brown;
+}
