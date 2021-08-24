@@ -8,3 +8,22 @@
     color: white;
     text-decoration: none;
 }
+.descricao {
+    display: inline-block;
+}
+.artigo {
+    display: inline-block;
+    margin-right: 20%;
+}
+.laterald aside a{
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 50px;
+    display: inline-block;
+    margin-left: 85%;
+}
+.rodape {
+    text-align: center;
+}
