@@ -1,0 +1,10 @@
+.navegation ul li {
+    display: inline-block;
+    padding: 5px;
+    background-color: green;
+    border-radius: 3px;
+}
+.navegation ul li a{
+    color: white;
+    text-decoration: none;
+}
