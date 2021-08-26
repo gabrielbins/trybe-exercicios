@@ -4,7 +4,7 @@ const c = 100;
 let verificacao;
 
 if (a<0||b<0||c<0){
-    console.log("error")
+    verificacao = "error"
 }
 else if (a+b+c === 180) {
     verificacao = true
